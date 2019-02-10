@@ -2,7 +2,7 @@
     "server":"47.75.254.75",
     "server_port":443,
     "local_port":1080,
-    "password":"liang9528/.",
+    "password":"liang9528",
     "method": "aes-256-cfb",
     "timeout":600,
     "fast_open": false
